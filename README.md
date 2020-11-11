@@ -1,5 +1,17 @@
 # AngularSampleProject01
 
+echo "# angularSampleProject01" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M rama001
+git remote add origin https://github.com/asalsan790/angularSampleProject01.git
+git push -u origin rama001
+
+---
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
